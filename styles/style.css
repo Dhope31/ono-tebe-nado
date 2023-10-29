@@ -115,29 +115,16 @@ button {
     text-align: end; 
 }
 
-.aligned-text .letter-spacing-extended {
-    letter-spacing: 8px;
-}
-
-.aligned-text .no-letter-spacing,
-.aligned-text_center .letter-spacing {
+.letter-spacing-extended {
     letter-spacing: 60px;
 }
 
-.aligned-text_center .letter-spacing-extended {
-    letter-spacing: 20px; 
+.letter-spacing {
+    letter-spacing: 30px;
 }
 
-.aligned-text_right .letter-spacing-extended {
-    letter-spacing: 45px;
-}
-
-.aligned-text_right .letter-spacing {
-    letter-spacing: 15px;
-}
-
-.aligned-text_right .no-letter-spacing {
-    letter-spacing: normal;
+.no-letter-spacing {
+    letter-spacing: 0;
 }
 
 .cover__description {
